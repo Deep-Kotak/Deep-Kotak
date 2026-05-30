@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Deep-Kotak
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi 👋, I'm Deep Kotak
+🎓 M.Sc. Computer Science Student
+💻 Aspiring Full Stack Developer
+🌱 Learning React.js, Node.js, Express.js & MySQL
+📫 Reach me: [deepmkotak1103@gmail.com]
+
 
 <!---
 Deep-Kotak/Deep-Kotak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
